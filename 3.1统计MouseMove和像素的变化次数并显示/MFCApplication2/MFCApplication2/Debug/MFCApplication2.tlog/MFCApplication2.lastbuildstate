@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|D:\VC++实验\第三次实验\统计MouseMove和像素的变化次数并显示\MFCApplication2\|
