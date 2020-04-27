@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|D:\VC++实验\第七次实验\7.1鼠标拿起一个矩形移到某一位置，放下\MFCApplication1\|
