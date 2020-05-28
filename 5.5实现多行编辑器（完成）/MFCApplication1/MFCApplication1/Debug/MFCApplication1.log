@@ -1,0 +1,10 @@
+﻿生成启动时间为 2020/5/26 20:49:25。
+     1>项目“D:\VC++实验\第五次实验\5.5实现多行编辑器\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication1View.cpp
+         MFCApplication1View.cpp
+     1>已完成生成项目“D:\VC++实验\第五次实验\5.5实现多行编辑器\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.05
