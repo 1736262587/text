@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|D:\VC++实验\第十次实验\计算非负整数n的阶乘的静态链接库\MFCApplication2\|

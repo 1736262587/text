@@ -1,0 +1,11 @@
+﻿生成启动时间为 2020/6/2 21:15:42。
+     1>项目“D:\VC++实验\第十次实验\计算非负整数n的阶乘的静态链接库\MFCApplication2\Lib0\Lib0.vcxproj”在节点 2 上(Build 个目标)。
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\VC++实验\第十次实验\计算非负整数n的阶乘的静态链接库\MFCApplication2\Debug\Lib0.lib" /NOLOGO Debug\stdafx.obj
+         Debug\w32.obj
+         Lib0.vcxproj -> D:\VC++实验\第十次实验\计算非负整数n的阶乘的静态链接库\MFCApplication2\Debug\Lib0.lib
+     1>已完成生成项目“D:\VC++实验\第十次实验\计算非负整数n的阶乘的静态链接库\MFCApplication2\Lib0\Lib0.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.96
