@@ -1,0 +1,29 @@
+﻿生成启动时间为 2020/6/8 10:51:37。
+     1>项目“D:\VC++实验\第十二次实验\12.4综合实验\MFCApplication2\MFCApplication2\MFCApplication2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication2View.cpp
+         MFCApplication2View.cpp
+     1>d:\vc++实验\第十二次实验\12.4综合实验\mfcapplication2\mfcapplication2\mfcapplication2view.cpp(312): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\vc++实验\第十二次实验\12.4综合实验\mfcapplication2\mfcapplication2\mfcapplication2view.cpp(313): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\vc++实验\第十二次实验\12.4综合实验\mfcapplication2\mfcapplication2\mfcapplication2view.cpp(316): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\vc++实验\第十二次实验\12.4综合实验\mfcapplication2\mfcapplication2\mfcapplication2view.cpp(323): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VC++实验\第十二次实验\12.4综合实验\MFCApplication2\Debug\MFCApplication2.exe" /INCREMENTAL /NOLOGO odbc32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\VC++实验\第十二次实验\12.4综合实验\MFCApplication2\Debug\MFCApplication2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VC++实验\第十二次实验\12.4综合实验\MFCApplication2\Debug\MFCApplication2.lib" /MACHINE:X86 Debug\MFCApplication2.res
+         Debug\ADD_DLG.obj
+         Debug\chaxun.obj
+         Debug\fangda.obj
+         Debug\MainFrm.obj
+         Debug\MFCApplication2.obj
+         Debug\MFCApplication2Doc.obj
+         Debug\MFCApplication2Set.obj
+         Debug\MFCApplication2View.obj
+         Debug\ShowRecord.obj
+         Debug\sort.obj
+         Debug\stdafx.obj
+         Debug\Update_DLG.obj
+         MFCApplication2.vcxproj -> D:\VC++实验\第十二次实验\12.4综合实验\MFCApplication2\Debug\MFCApplication2.exe
+     1>已完成生成项目“D:\VC++实验\第十二次实验\12.4综合实验\MFCApplication2\MFCApplication2\MFCApplication2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.80
