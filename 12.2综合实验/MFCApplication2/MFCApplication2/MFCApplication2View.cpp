@@ -237,6 +237,7 @@ void CMFCApplication2View::OnBnClickedButton2()
 void CMFCApplication2View::OnBnClickedButton4()
 {
 	// TODO:  在此添加控件通知处理程序代码
+	//查询功能
 	chaxun q;
 	int n = q.DoModal();
 	if (n == IDOK) {
